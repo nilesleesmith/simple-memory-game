@@ -1,63 +1,69 @@
 # Simple Memory Game
 
-A small browser-based memory game built while learning JavaScript and DOM manipulation.
+Match five pairs of shuffled cards while the game tracks picks and results.
 
-## About
+## Overview
 
-This project is a simple card matching game.
+Simple Memory Game challenges players to find five matching pairs among ten shuffled cards.
 
-The player flips two cards at a time and tries to find matching pairs. If the cards match, they remain visible. If they do not match, they are flipped back over.
-
-The game continues until all of the matching pairs have been found.
-
-## How to Play
-
-1. Click on a card to reveal it.
-2. Click on a second card.
-3. If the cards match, they remain visible.
-4. If the cards do not match, they are flipped back over.
-5. Continue until all of the cards have been matched.
+Players reveal two cards at a time. Matching cards remain visible, while unmatched cards are turned back over after a short delay. The game tracks card selections and match results as the player works through the deck.
 
 ## Features
 
-- Flip cards to reveal their values
-- Match pairs of cards
-- Keep matching cards visible
-- Flip unmatched cards back over
-- Track the current game state
-- Complete the game by finding all matching pairs
-
-## What I Practiced
-
-- JavaScript
-- DOM manipulation
-- Event listeners
-- Functions
-- Arrays
-- Randomization
-- Conditional logic
-- Game state
-- User interaction
-- Creating and modifying HTML elements with JavaScript
+- Randomized card placement at the start of a game
+- Two-card matching logic
+- Matched-card state tracking
+- Automatic hiding of unmatched cards
+- Pick-count tracking
+- Match-result tracking
+- Game-completion detection
+- Controls to continue playing or reset the game
+- Responsive card layout
 
 ## Technologies
 
-- HTML5
-- CSS3
-- JavaScript
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40">
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40">
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
+  </a>
+</p>
 
-## Running the Project
+## How to Run
 
-Clone or download the repository and open `index.html` in a web browser.
+1. Clone the repository:
 
-## Purpose
+```bash
+git clone https://github.com/nilesleesmith/simple-memory-game.git
+```
 
-This was a simple programming exercise and an opportunity to practice JavaScript application logic.
+2. Open the project folder.
 
-The goal was to build a small interactive game while working with the DOM, user events, arrays, and basic game state.
+3. Open `index.html` in a web browser.
 
-## Note
+No additional dependencies or build steps are required.
 
-The purpose of this project is to practice and document my learning process.
+## Live Site
 
-It is a simple project, but it helped me better understand how JavaScript can be used to create interactive browser applications.
+Coming soon.
+
+## Screenshots
+
+### Desktop
+
+![Simple Memory Game desktop view](.images/screenshots/simple-memory-game-desktop.png)
+
+### Tablet
+
+![Simple Memory Game tablet view](.images/screenshots/simple-memory-game-tablet.png)
+
+### Mobile
+
+![Simple Memory Game mobile view](.images/screenshots/simple-memory-game-mobile.png)
