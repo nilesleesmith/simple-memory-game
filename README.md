@@ -58,12 +58,12 @@ Coming soon.
 
 ### Desktop
 
-![Simple Memory Game desktop view](.images/screenshots/simple-memory-game-desktop.png)
+![Simple Memory Game desktop view](./images/screenshots/simple-memory-game-desktop.png)
 
 ### Tablet
 
-![Simple Memory Game tablet view](.images/screenshots/simple-memory-game-tablet.png)
+![Simple Memory Game tablet view](./images/screenshots/simple-memory-game-tablet.png)
 
 ### Mobile
 
-![Simple Memory Game mobile view](.images/screenshots/simple-memory-game-mobile.png)
+![Simple Memory Game mobile view](./images/screenshots/simple-memory-game-mobile.png)
