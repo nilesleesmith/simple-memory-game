@@ -52,18 +52,8 @@ No additional dependencies or build steps are required.
 
 ## Live Site
 
-Coming soon.
+https://nilesleesmith.github.io/simple-memory-game/
 
 ## Screenshots
 
-### Desktop
-
 ![Simple Memory Game desktop view](./images/screenshots/simple-memory-game-desktop.png)
-
-### Tablet
-
-![Simple Memory Game tablet view](./images/screenshots/simple-memory-game-tablet.png)
-
-### Mobile
-
-![Simple Memory Game mobile view](./images/screenshots/simple-memory-game-mobile.png)
